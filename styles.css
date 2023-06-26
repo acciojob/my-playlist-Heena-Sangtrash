@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+body{
+	background:#cccccc
+}
+a{
+	text-decoration-line:none;
+	color:black;
+}
+.player_one{
+	background:white;
+	border:1px solid grey;
+	color:black;
+}
+.player_two
+{
+    background:white;
+	padding:10px;
+	margin-left:auto;
+	margin-right:auto;
+	width:max-content;
+	color:black;
+	border:1px solid grey;
+	border-radius:5px;
+}
